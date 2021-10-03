@@ -32,8 +32,7 @@ http://g.recordit.co/1wfzkQ901d.gif
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-
-Demo : http://g.recordit.co/nWOQ5XBDll.gif 
+ 
 <img src= "http://g.recordit.co/nWOQ5XBDll.gif" width=250><br>
 
 ### Notes
